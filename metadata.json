@@ -1,0 +1,6 @@
+{
+  "name": "CreatorAI",
+  "description": "Free AI Image and Short-Video Generation Platform with multi-style generation, AI prompt assistant, and gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

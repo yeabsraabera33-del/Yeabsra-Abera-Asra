@@ -1,0 +1,13 @@
+{
+  "name": "creatorai",
+  "version": "1.0.0",
+  "description": "CreatorAI - Free AI Image and Short-Video Generation Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["ai", "image-generation", "video-generation", "free", "android"],
+  "author": "CreatorAI",
+  "license": "MIT"
+}
